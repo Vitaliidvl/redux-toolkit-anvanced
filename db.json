@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "Metallica",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server 5",
+      "body": "typicode"
+    },
+    {
+      "id": 10,
+      "title": "json-server 10",
+      "body": "typicode"
+    },
+    {
+      "title": "NEW POST",
+      "body": "NEW POST",
+      "id": 14
+    },
+    {
+      "title": "Iron Maiden",
+      "body": "123123",
+      "id": 16
+    },
+    {
+      "title": "new POST",
+      "body": "new POST",
+      "id": 17
+    },
+    {
+      "title": "new Post 2",
+      "body": "new Post 2",
+      "id": 18
+    },
+    {
+      "title": "sdfsf",
+      "body": "sdfsf",
+      "id": 19
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
